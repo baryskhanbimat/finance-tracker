@@ -15,3 +15,10 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+// $(document).ready(function(){
+//     $('#stock-lookup-form').on('ajax:complete', function(event, data, status){
+//         console.log('ok');
+//         $('#results').html(data.responseText)
+//     })
+// });
